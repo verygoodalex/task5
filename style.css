@@ -1,0 +1,72 @@
+.body{
+
+background-color: #7bec9f;
+background: linear-gradient(90deg, #7bec9f 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+
+
+
+
+
+
+
+.header{
+    margin:0 80px;
+    padding:20px 0 ;
+    border-bottom:solid 2px #828282;
+
+
+}
+
+.header__nav-container{
+    display: flex;
+    justify-content: space-around; 
+
+
+}
+
+.header__menu{
+    color:#474040;
+
+
+}
+
+.lang{
+    padding-left: 1300px; 
+    writing-mode: vertical-rl;
+
+
+}
+
+
+.photo1{
+height: 650px; ;
+width: 550px; ;
+padding-left: 400px;
+
+
+}
+
+.self-introduction__paragraph{
+    padding-left: 1300px;
+    padding: top 200px; 
+    font-size:25px;
+
+}
+
+.about-me{
+    padding-left: 600px;
+    text-shadow: 1vw 1vw 2vw rgb(7, 17, 18);
+
+
+
+}
+
+.about-text{
+    padding-left: 370px;
+    font-size:30px ;
+
+}
+
