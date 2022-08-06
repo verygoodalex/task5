@@ -29,6 +29,8 @@ background: linear-gradient(90deg, #7bec9f 0%, rgba(9,9,121,1) 35%, rgba(0,212,2
 
 .header__menu{
     color:#474040;
+    font-family: 'Rye', cursive;
+
 
 
 }
@@ -36,7 +38,7 @@ background: linear-gradient(90deg, #7bec9f 0%, rgba(9,9,121,1) 35%, rgba(0,212,2
 .lang{
     padding-left: 1300px; 
     writing-mode: vertical-rl;
-
+    font-family: 'Monoton', cursive;
 
 }
 
@@ -53,12 +55,14 @@ padding-left: 400px;
     padding-left: 1300px;
     padding: top 200px; 
     font-size:25px;
+    font-family: 'Special Elite', cursive;
 
 }
 
 .about-me{
     padding-left: 600px;
     text-shadow: 1vw 1vw 2vw rgb(7, 17, 18);
+    font-family: 'Blaka Hollow', cursive;
 
 
 
@@ -67,6 +71,11 @@ padding-left: 400px;
 .about-text{
     padding-left: 370px;
     font-size:30px ;
-
+    font-family: 'Sacramento', cursive;
 }
 
+.self-introduction{
+    font-family: 'Bungee Shade', cursive;
+
+
+}
